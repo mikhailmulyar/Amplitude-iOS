@@ -19,7 +19,7 @@
 #endif
 
 #import <Foundation/Foundation.h>
-#import <sqlite3.h>
+#import "sqlite3.h"
 #import "AMPARCMacros.h"
 #import "AMPDatabaseHelper.h"
 #import "AMPARCMacros.h"
